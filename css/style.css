@@ -14,10 +14,10 @@
 }
 
 .clients img{
-    max-width: 150px;
+    max-width: 250px;
     filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
 }
 
 section,footer {
-    padding: 20px 0;
+    padding: 10px 0;
 }
